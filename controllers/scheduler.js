@@ -6,6 +6,7 @@ exports.checktransactions = async () => {
       "udeshmukh@enugudisco.com",
       "jyekini@enugudisco.com",
       "nduson2k@gmail.com",
+      "peteng@enugudisco.com",
     ];
     let message = "";
     let transactioninfo = await stats();
